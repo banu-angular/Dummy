@@ -1,1 +1,2 @@
-Text 1
+//Created text.ts
+
